@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="[40,)"
-license="Academic Free License v3.0"
+license="MIT"
 
 [[mods]]
 modId="show_fps"
 version="1.0.0"
 displayName="Show FPS"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
-authors="FinnT, MCreator"
+credits="FinnT730, and @Su5eD for the PR"
+displayURL=""
+authors="FinnT730"
 
 [[dependencies.show_fps]]
     modId="minecraft"
